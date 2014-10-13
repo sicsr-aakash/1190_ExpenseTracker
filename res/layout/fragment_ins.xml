@@ -1,0 +1,59 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+       android:background="#2c3e50"
+       android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.myexpensetracker.InsActivity$PlaceholderFragment" >
+
+    
+     <TextView android:layout_width="match_parent"
+    		  android:layout_height="wrap_content"
+    		  android:layout_marginLeft="20dp"
+    		  android:layout_marginTop="20dp"
+    		  android:textColor="#fff"
+    		  android:textSize="20sp"
+    		  android:text="Basic Instructions For getting Started"/>
+     
+       <TextView 
+           android:layout_width="match_parent"
+    		  android:layout_height="wrap_content"
+    		  android:layout_marginLeft="20dp"
+    		  android:layout_marginTop="20dp"
+    		  android:textColor="#fff"
+    		  android:textSize="20sp"
+    		  android:text="1. On the main screen + button is used to create wallets"/>
+       
+       <TextView 
+           android:layout_width="match_parent"
+    		  android:layout_height="wrap_content"
+    		  android:layout_marginLeft="20dp"
+    		  android:layout_marginTop="20dp"
+    		  android:textColor="#fff"
+    		  android:textSize="20sp"
+    		  android:text="2. The = button is used to view the created wallets"/>
+
+       
+       <TextView 
+           android:layout_width="match_parent"
+    		  android:layout_height="wrap_content"
+    		  android:layout_marginLeft="20dp"
+    		  android:layout_marginTop="20dp"
+    		  android:textColor="#fff"
+    		  android:textSize="20sp"
+    		  android:text="3. The circular arrow button is used to update the created wallets"/>
+       
+       <TextView 
+           android:layout_width="match_parent"
+    		  android:layout_height="wrap_content"
+    		  android:layout_marginLeft="20dp"
+    		  android:layout_marginTop="20dp"
+    		  android:textColor="#fff"
+    		  android:textSize="20sp"
+    		  android:text="*** The = button is used to view all the things that are cretaed by the user be it the wallets or the expenses and this convention is carried out throughout the app"/>
+       
+</LinearLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ExpenseTracker</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_settings">Instructions</string>
+    <string name="expense">Expenses</string>
+    <string name="wallet">Wallet</string>
+    <string name="setting">Settings</string>
+    <string name="title_activity_expense">Expense</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="addExpenses">Add Expenses</string>
+    <string name="editExpenses">Edit Expenses</string>
+    <string name="enterexpenses">Enter Expenses</string>
+    <string name="enteramount">Enter Amount</string>
+    <string name="expensename">Expense Name</string>
+    <string name="add">Add Wallet</string>
+    <string name="Wallet">Wallet</string>
+    <string name="View">View</string>
+    <string name="Currency">Currency</string>
+    <string name="Country">Country</string>
+    <string name="Aboutus">About Us</string>
+    <string name="but">Add</string>
+    <string name="addexpense">Add Expenses</string>
+    <string name="viewWallet">View Wallet</string>
+    <string name="Yourexpenses">Your Expenses</string>
+    <string name="Updatewallet">Update Wallet</string>
+    <string name="updateexpense">Update Expense</string>
+    <string name="work">Work</string>
+    <string name="travel">Travel</string>
+    <string name="Yourwallets">Your Wallets</string>
+    <string name="home">Home</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="Update">Update</string>
+    <string name="title_activity_wallet">Wallet</string>
+    <string name="title_activity_add_wallet">AddWallet</string>
+    <string name="title_activity_view_wallet">ViewWallet</string>
+    <string name="title_activity_expenses">Expenses</string>
+    <string name="title_activity_add_expense">AddExpense</string>
+    <string name="title_activity_list_expenses">ListExpenses</string>
+    <string name="title_activity_update_expenses">UpdateExpenses</string>
+    <string name="title_activity_update">Update</string>
+    <string name="title_activity_new">NewActivity</string>
+    <string name="title_activity_menu_new">MenuNewActivity</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_ins">InsActivity</string>
+
+</resources>

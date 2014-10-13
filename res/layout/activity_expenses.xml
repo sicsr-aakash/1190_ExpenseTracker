@@ -1,0 +1,51 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+   android:layout_width="fill_parent"
+   android:layout_height="fill_parent"
+   android:background="#34495e"
+   android:orientation="vertical"
+    >
+    
+         <TextView
+             android:id="@+id/heading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+       
+        android:layout_marginTop="50dp"
+        android:textSize="50sp"
+        android:layout_gravity="center"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+         
+
+          
+           
+           
+  
+  	     
+  	    <ImageButton
+        android:id="@+id/addexpense1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+         android:layout_marginTop="100dp"
+         android:layout_gravity="center"
+         android:background="@null"
+            android:src="@drawable/add"
+        />
+  	    
+  	    <ImageButton
+        android:id="@+id/viewexpense1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+         android:layout_marginTop="45dp"
+         android:layout_gravity="center"
+         android:background="@null"
+            android:src="@drawable/view"
+        />
+                
+     
+     
+
+
+  	
+    
+</LinearLayout>
