@@ -11,7 +11,7 @@ Name/’s of the Students : Saurabh Mhatre
 
 About (Short Description / Summary):
 
-Expense tracker is an Android app that helps the user to create wallets and add expenses to these
+Expense Tracker is an Android app that helps the user to create wallets and add expenses to these
 wallets. The user can track his/her daily expenses and categorize them according to the
 wallets created.
 
